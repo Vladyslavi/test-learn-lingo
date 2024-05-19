@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_learn_lingo=self.webpackChunktest_learn_lingo||[]).push([[455],{455:function(e,n,t){t.r(n);t(791);var r=t(184);n.default=function(){return(0,r.jsx)("div",{children:"Teachers"})}}}]);
+//# sourceMappingURL=455.05c48988.chunk.js.map
